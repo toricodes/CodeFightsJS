@@ -1,0 +1,21 @@
+{
+  "name": "codefightsjs",
+  "version": "1.0.0",
+  "description": "Here I will put together all the exercises from CodeFights, with a TDD approach",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "codefights",
+    "javascript",
+    "mocha",
+    "tdd"
+  ],
+  "author": "Victoria Rodríguez <contact@tori.codes>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}
