@@ -1,6 +1,6 @@
 const expect = require('chai').expect;
-const add = require('../Exercises/Intro/add/add.js');
-const centuryFromYear = require('../Exercises/Intro/centuryFromYear/centuryFromYear.js');
+const add = require('../Exercises/Intro/add.js');
+const centuryFromYear = require('../Exercises/Intro/centuryFromYear.js');
 
 describe('add', function () {
     it('should return the sum of two numbers', function () {
