@@ -3,6 +3,7 @@ const add = require('../Exercises/TheJourneyBegins/add.js');
 const centuryFromYear = require('../Exercises/TheJourneyBegins/centuryFromYear.js');
 const checkPalindrome = require('../Exercises/TheJourneyBegins/checkPalindrome');
 
+// THE JOURNEY BEGINS
 describe('add', function () {
     it('should return the sum of two numbers', function () {
         expect(add(2, 4)).to.equal(6);
