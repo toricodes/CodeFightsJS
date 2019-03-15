@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const add = require('../add/add.js');
+const add = require('../Exercises/add/add.js');
 
 describe('add', function () {
     it('should return the sum of two numbers', function () {
